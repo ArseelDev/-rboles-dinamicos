@@ -1,0 +1,7 @@
+D:\ArbolesDinamicos\bin\Debug\ArbolesDinamicos.exe.config
+D:\ArbolesDinamicos\bin\Debug\ArbolesDinamicos.exe
+D:\ArbolesDinamicos\bin\Debug\ArbolesDinamicos.pdb
+D:\ArbolesDinamicos\obj\Debug\ArbolesDinamicos.csproj.AssemblyReference.cache
+D:\ArbolesDinamicos\obj\Debug\ArbolesDinamicos.csproj.CoreCompileInputs.cache
+D:\ArbolesDinamicos\obj\Debug\ArbolesDinamicos.exe
+D:\ArbolesDinamicos\obj\Debug\ArbolesDinamicos.pdb
